@@ -31,3 +31,8 @@
 # Debug files
 *.dSYM/
 *.su
+
+# Build artefacts
+build/
+dist/
+nbproject/
